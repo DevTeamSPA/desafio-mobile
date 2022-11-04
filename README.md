@@ -13,6 +13,12 @@ Pense no desafio como uma oportunidade de mostrar todo o seu conhecimento. Sua a
 * Layout's;
 * Fluxo de navegação.
 
+Utilize a API: `https://parallelum.com.br/fipe/api/v1/carros`
+
+## Demonstração:
+
+<center><img src="mobcar.gif" /></center>
+
 ## Requerimentos
 
 * O app deve ser escrito preferencialmente usando [Flutter](https://flutter.dev);
