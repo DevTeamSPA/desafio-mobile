@@ -15,6 +15,8 @@ Pense no desafio como uma oportunidade de mostrar todo o seu conhecimento. Sua a
 
 Utilize a API: `https://parallelum.com.br/fipe/api/v1/carros`
 
+`Você tem 5 dias para entregar o teste!`
+
 ## Demonstração:
 
 <center><img src="mobcar.gif" /></center>
